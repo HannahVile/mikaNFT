@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mikaNFT/static/css/main.aef34ae6.css",
+    "main.js": "/mikaNFT/static/js/main.15d0e574.js",
+    "static/js/453.9b30acc1.chunk.js": "/mikaNFT/static/js/453.9b30acc1.chunk.js",
+    "static/media/mikaart0.gif": "/mikaNFT/static/media/mikaart0.74c7bbbe2078760b2d90.gif",
+    "index.html": "/mikaNFT/index.html",
+    "main.aef34ae6.css.map": "/mikaNFT/static/css/main.aef34ae6.css.map",
+    "main.15d0e574.js.map": "/mikaNFT/static/js/main.15d0e574.js.map",
+    "453.9b30acc1.chunk.js.map": "/mikaNFT/static/js/453.9b30acc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef34ae6.css",
+    "static/js/main.15d0e574.js"
+  ]
+}
